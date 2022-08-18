@@ -1,2 +1,3 @@
 # bootcamp-globalweb
-Desafios de projeto e código do bootcamp
+Desafios de projeto e código do bootcamp.
+Projeto - BRB
